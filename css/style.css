@@ -1,0 +1,86 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Itim', cursive;
+    font-family: 'Ramabhadra', sans-serif;
+}
+header {
+    padding: 70px 50px;
+    background-color: #111135;
+    color: white;
+}
+header h4{
+    padding: 15px 0px;
+    font-size: 22px;
+    color: #52aed6;
+}
+header p{
+    font-size: 15px;
+}
+.contact {
+    padding: 15px 0px;
+    text-align: center;
+    background-color: #050577;
+    color: white;
+    font-size: 14px;
+}
+.contact i {
+    padding-right: 10%;
+}
+.contact i a{
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+}
+.main{
+    background-color: #d9d9dd;
+}
+table {
+    width: 100%;
+    text-align: left;
+    padding: 20px 50px;
+}
+.class table th{
+    width: 50%;
+}
+table h2 {
+    margin: 3% 0px;
+    padding-bottom: 12px;
+    text-decoration: underline;
+    color: #050577;
+}
+table p {
+    padding-bottom: 14px;
+    font-size: 14px;
+    color: rgb(100, 99, 99);
+}
+h3 {
+    font-weight: bolder;
+    font-size: 21px;
+}
+h4 {
+    font-size: 18px;
+    font-weight: 400;
+}
+ul {
+    padding: 0px 16px;
+}
+ul li{
+    color: #050577;
+    padding:4px 0px
+}
+ul li span{
+    color: black;
+}
+
+td.skills li {
+    display: block;
+    color: black;
+    
+}
+td.interest span {
+    border: 2px solid gray;
+    padding: 10px 10px;
+    margin-top: -50px !important;
+}
+
